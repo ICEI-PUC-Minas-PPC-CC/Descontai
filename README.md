@@ -25,7 +25,7 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 ---
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores  
-- Lean Canvas: *(inserir imagem ou link)*  
+- Lean Canvas: *//*  
 - **Missão:** Simplificar o acesso a promoções online de forma prática e segura.  
 - **Visão:** Ser referência em curadoria de ofertas digitais via WhatsApp no Brasil.  
 - **Valores:** Transparência, praticidade, inovação e foco no usuário.  
@@ -62,7 +62,7 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 ---
 
 ### 7️⃣ Fluxo de Caixa  
-- **Planilha:** *(inserir link ou imagem da planilha)*  
+- **Planilha:** *//*  
 - **Principais considerações:** Receita variável (dependente de vendas), custos fixos baixos.  
 
 ---
