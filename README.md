@@ -1,4 +1,4 @@
-# 📌 Descontaí 
+# 📌 Projeto - Descontaí 
 **Centralizador de Promoções no WhatsApp**  
 
 Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites diversos, organiza os descontos e compartilha em grupos de WhatsApp, facilitando o acesso dos usuários às melhores oportunidades de compra em tempo real.  
@@ -9,8 +9,8 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 - Kleberson Crystyan de Lima – RA: 801853  
 - Vitor Hugo Granato Moreira do Prado – RA: 818814
 - João Eduardo Lino Quinteiro – RA: 794595
-- Jules Eloisio Moraes Lima - RA: 818093
-- Gabriel Henrique Custodio - RA: 
+- Jules Eloisio Moraes Lima – RA: 818093
+- Gabriel Henrique Custodio – RA: 
 
 ---
 
@@ -25,18 +25,19 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 ---
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores  
-- Lean Canvas:
- 
 - **Missão:** Simplificar o acesso a promoções online de forma prática e segura.  
 - **Visão:** Ser referência em curadoria de ofertas digitais via WhatsApp no Brasil.  
 - **Valores:** Transparência, praticidade, inovação e foco no usuário.  
+ <a href="./docs/LeanCanvas.png" target="_blank">
+  <img src="./docs/LeanCanvas.png" alt="Lean Canvas" width="600">
+</a>
 
 ---
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)  
-- **Custos fixos:** Hospedagem de sistema, internet, ferramentas de automação.  
-- **Custos variáveis:** Divulgação, manutenção de bots, eventuais taxas de plataformas.  
-- **Tributos aplicáveis:** Simples Nacional (MEI ou ME), impostos sobre receita de afiliados.  
+- **Custos fixos:** Hospedagem de sistema, internet, ferramentas de automação (n8n).  
+- **Custos variáveis:** Divulgação, manutenção de bots, eventuais taxas de plataformas(se tiver).  
+- **Tributos aplicáveis:** (sem Tributos aplicáveis no momento)  
 
 ---
 
@@ -56,20 +57,20 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 ---
 
 ### 6️⃣ Planejamento Estratégico (BSC)  
-- **Objetivos estratégicos:** Expandir base de usuários e fortalecer parcerias com marketplaces.  
+- **Objetivos estratégicos:** Expandir base de usuários através de trafégo pago e fortalecer parcerias com marketplaces.  
 - **Indicadores e metas:** Crescimento mensal de 20% em membros do grupo; aumento de receita por comissão.  
 - **Ações planejadas:** Marketing digital em redes sociais, gamificação para engajamento no grupo.  
 
 ---
 
 ### 7️⃣ Fluxo de Caixa  
-- **Planilha:** *//*  
+- **Planilha:** (Ainda em planejamento, e definindo valores correspondentes, será atualizado em breve).
 - **Principais considerações:** Receita variável (dependente de vendas), custos fixos baixos.  
 
 ---
 
 ### 8️⃣ Valuation  
-- **Método utilizado:** Fluxo de Caixa Descontado (DCF).  
+- **Método utilizado:** Fluxo de Caixa Descontado.  
 - **Valor estimado:** Simulação em sala (dependerá das projeções financeiras desenvolvidas).  
 
 ---
@@ -119,15 +120,13 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 ## 📁 Organização do Repositório
 
 📦 projeto/
- ┣ 📂 docs/
- ┃ ┣ lean_canvas.png
- ┃ ┣ custos_tributos.xlsx
- ┃ ┣ swot_plano_negocios.pdf
- ┃ ┣ fluxo_caixa_planejamento.xlsx
- ┃ ┗ valuation.pdf
- ┣ 📂 src/
- ┃ ┣ prototipo/
- ┃ ┗ documentos_planejamento/
- ┣ README.md
-
-
+┣ 📂 docs/
+┃ ┣ lean_canvas.png
+┃ ┣ custos_tributos.xlsx
+┃ ┣ swot_plano_negocios.pdf
+┃ ┣ fluxo_caixa_planejamento.xlsx
+┃ ┗ valuation.pdf
+┣ 📂 src/
+┃ ┣ prototipo/
+┃ ┗ documentos_planejamento/
+┗ README.md
