@@ -10,7 +10,7 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 - Vitor Hugo Granato Moreira do Prado – RA: 818814
 - João Eduardo Lino Quinteiro – RA: 794595
 - Jules Eloisio Moraes Lima – RA: 818093
-- Gabriel Henrique Custodio – RA: 
+- Gabriel Henrique Custodio – RA: 815619
 
 ---
 
