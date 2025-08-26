@@ -115,16 +115,18 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 
 ---
 
-## 📁 Organização do Repositório  
+## 📁 Organização do Repositório
+
 📦 projeto/
-┣ 📂 docs/
-┃ ┣ lean_canvas.png
-┃ ┣ custos_tributos.xlsx
-┃ ┣ swot_plano_negocios.pdf
-┃ ┣ fluxo_caixa_planejamento.xlsx
-┃ ┗ valuation.pdf
-┣ 📂 src/
-┃ ┣ prototipo/
-┃ ┗ documentos_planejamento/
-┣ README.md
+ ┣ 📂 docs/
+ ┃ ┣ lean_canvas.png
+ ┃ ┣ custos_tributos.xlsx
+ ┃ ┣ swot_plano_negocios.pdf
+ ┃ ┣ fluxo_caixa_planejamento.xlsx
+ ┃ ┗ valuation.pdf
+ ┣ 📂 src/
+ ┃ ┣ prototipo/
+ ┃ ┗ documentos_planejamento/
+ ┣ README.md
+
 
