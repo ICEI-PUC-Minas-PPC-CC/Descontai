@@ -1,5 +1,5 @@
-# 📌 Nome do Projeto  
-**Descontaí – Centralizador de Promoções no WhatsApp**  
+# 📌 Descontaí 
+**Centralizador de Promoções no WhatsApp**  
 
 Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites diversos, organiza os descontos e compartilha em grupos de WhatsApp, facilitando o acesso dos usuários às melhores oportunidades de compra em tempo real.  
 
