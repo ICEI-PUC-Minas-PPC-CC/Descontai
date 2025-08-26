@@ -7,9 +7,9 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 
 ## 👥 Integrantes  
 - Kleberson Crystyan de Lima – RA: 801853  
-- Vitor Hugo Granato Moreira do Prado – RA: 
-- João Eduardo Lino Quinteiro – RA:
-- Jules Eloisio Moraes Lima - RA:
+- Vitor Hugo Granato Moreira do Prado – RA: 818814
+- João Eduardo Lino Quinteiro – RA: 794595
+- Jules Eloisio Moraes Lima - RA: 818093
 - Gabriel Henrique Custodio - RA: 
 
 ---
@@ -25,7 +25,8 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 ---
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores  
-- Lean Canvas: *//*  
+- Lean Canvas:
+ 
 - **Missão:** Simplificar o acesso a promoções online de forma prática e segura.  
 - **Visão:** Ser referência em curadoria de ofertas digitais via WhatsApp no Brasil.  
 - **Valores:** Transparência, praticidade, inovação e foco no usuário.  
