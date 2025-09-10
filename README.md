@@ -83,6 +83,11 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 
 ---
 
+[InvestimentoPreOperacional.pdf](https://github.com/user-attachments/files/22264576/InvestimentoPreOperacional.pdf)
+[Outros Custos Variáveis.pdf](https://github.com/user-attachments/files/22264580/Outros.Custos.Variaveis.pdf)
+[CustosFixo.pdf](https://github.com/user-attachments/files/22264577/CustosFixo.pdf)
+
+Link para acessar o PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/7CSb7Ev2A
 
 ---
 
