@@ -82,10 +82,10 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 - Não foram considerados tributos adicionais além da contribuição mensal do MEI (Simples Nacional).  
 
 ---
-
-[InvestimentoPreOperacional.pdf](https://github.com/user-attachments/files/22264576/InvestimentoPreOperacional.pdf)
-[Outros Custos Variáveis.pdf](https://github.com/user-attachments/files/22264580/Outros.Custos.Variaveis.pdf)
-[CustosFixo.pdf](https://github.com/user-attachments/files/22264577/CustosFixo.pdf)
+<img width="619" height="820" alt="Captura de tela 2025-09-10 190800" src="https://github.com/user-attachments/assets/00b8915c-c2d2-4cd1-96f0-ec716aafec59" />
+<img width="629" height="431" alt="Captura de tela 2025-09-10 190745" src="https://github.com/user-attachments/assets/44f28591-d255-49a1-8a1d-e6135c88c35b" />
+<img width="623" height="789" alt="Captura de tela 2025-09-10 190829" src="https://github.com/user-attachments/assets/f72465b1-6820-44da-b01a-c6c5a575e8cc" />
+<img width="764" height="515" alt="Captura de tela 2025-09-10 190846" src="https://github.com/user-attachments/assets/877a668f-10d2-4c65-beb3-6e8f64d3c339" />
 
 Link para acessar o PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/7CSb7Ev2A
 
