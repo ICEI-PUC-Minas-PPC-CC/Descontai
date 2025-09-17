@@ -14,6 +14,8 @@
 
 **TOTAL** = R$ 28.725,00
 
+<img width="1064" height="820" alt="Captura de tela 2025-09-17 151012" src="https://github.com/user-attachments/assets/0fe33a00-65b6-4a20-b2c4-0d74b41f04cf" />
+
 ### 1.2 Investimento Pré-operacional
 - Registro da Marca e CNPJ : R$ 1.500,00
 - Custos jurídicos/contratuais : R$ 2.000,00
@@ -22,6 +24,8 @@
 
 **TOTAL** = R$ 10.500,00
 
+<img width="1178" height="815" alt="Captura de tela 2025-09-17 151041" src="https://github.com/user-attachments/assets/1dce923b-d9a2-4107-b43a-7ae22e81050c" />
+
 ### 1.3 Capital de Giro
 - Salários (5 sócios) → R$ 10.000,00
 - Servidor em nuvem e APIs → R$ 1.200,00
@@ -29,7 +33,7 @@
 - Marketing recorrente (anúncios) → R$ 3.000,00
 - Impostos e taxas → R$ 1.500,00
 
-**Total mensal estimado**: R$ 18.500
+**Total mensal estimado**: R$ 16.700,00
 
 ---
 
