@@ -36,7 +36,7 @@ Breve descrição: Projeto de marketing de afiliados que reúne ofertas de sites
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)  
 
-Link para acessar o PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/7CSb7Ev2A
+Link para acessar o PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/gaDwQWdem
 
 [Custos e tributos](docs/custos_estudo.md)
 
