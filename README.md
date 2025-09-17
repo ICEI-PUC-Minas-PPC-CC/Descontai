@@ -92,9 +92,8 @@ Link para acessar o PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/7CSb7
 ---
 
 ### 4️⃣ Investimentos e Precificação  
-- **Investimento inicial:** Baixo custo, focado em automação e marketing digital (~R$ 500 a R$ 1.000).  
-- **Estratégia de precificação:** Receita proveniente de comissão sobre vendas via links de afiliados.  
-- **Justificativa:** Modelo escalável, sem custo direto para o usuário final.  
+
+[Plano de Négocio](docs/plano_de_negocio.md)
 
 ---
 
