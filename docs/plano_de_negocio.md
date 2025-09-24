@@ -69,3 +69,40 @@
 - LTV (Lifetime Value): R$ 240 (considerando retenção média de 12 meses).
 
 ---
+
+## 📌 3. Enquadramento Empresarial
+
+### 3.1 Enquadramento Jurídico
+
+Considerando a nossa estrutura (somos cinco integrantes) e a natureza do nosso negócio, entendemos que a melhor opção de natureza jurídica para a Descontaí é a **Sociedade Limitada (LTDA)**.
+
+A nossa escolha se deve ao fato de que a **LTDA** é a forma mais **comum** e **segura** para empresas com múltiplos sócios. Ela nos oferece **proteção patrimonial**, separando as finanças da empresa das nossas finanças pessoais. Nossa responsabilidade fica limitada ao valor de nossas cotas no capital social. Isso é ideal para a Descontaí, pois nos permite participar da sociedade de forma **segura** e **organizada**.
+
+### 3.2 Regime Tributário
+
+Para o nosso modelo de negócio, o regime tributário mais vantajoso, especialmente neste início, é o **Simples Nacional**.
+
+O motivo da escolha é que esse regime simplificado **unifica o pagamento de vários impostos** (IRPJ, CSLL, PIS, COFINS, IPI, ISS e ICMS) em uma **única guia (DAS)**. Essa simplicidade **reduz a burocracia e facilita a nossa gestão financeira**, o que é fundamental para uma startup como a nossa.
+
+A alíquota inicial é menor e a tributação é progressiva, ou seja, aumenta conforme o nosso faturamento. O limite de faturamento anual do Simples Nacional é de R$ 4,8 milhões, o que é mais do que suficiente para a fase inicial da Descontaí.
+
+Não escolhemos nem o Lucro Presumido nem o Lucro Real, pois esses regimes **são mais complexos** e, em geral, mais caros para empresas de pequeno e médio porte, especialmente quando o faturamento é baixo. Eles fariam mais sentido em uma fase de crescimento com faturamento muito alto, mas não para o início do nosso projeto.
+
+### 3.3 Tributação Incidente
+
+No Simples Nacional, nossa tributação se concentrará em:
+
+- **IRPJ** e **CSLL**: Imposto de Renda Pessoa Jurídica e Contribuição Social sobre o Lucro Líquido.
+- **PIS** e **COFINS**: Contribuições para o Programa de Integração Social e para o Financiamento da Seguridade Social.
+- **INSS Patronal**: Contribuição para a Previdência Social.
+
+Como nosso modelo de negócio é baseado em comissões por afiliação, nos enquadramos na prestação de serviços. Sendo assim, também pagaremos o **ISS (Imposto Sobre Serviços)**, de competência municipal. Não haverá incidência de **ICMS (imposto estadual sobre circulação de mercadorias)** nem de **IPI (imposto federal sobre produtos industrializados)**, já que não vendemos produtos.
+
+### 3.4 Obrigações Acessórias
+
+Mesmo simplificadas pelo Simples Nacional, nossas obrigações acessórias ainda exigem atenção:
+
+- **Emissão de Notas Fiscais**: a cada comissão recebida dos marketplaces (Mercado Livre, Shopee, etc.), precisaremos emitir uma nota fiscal de serviço para formalizar a receita.
+- **Livro Caixa**: manteremos o registro de todas as receitas e despesas para demonstrar nossa movimentação financeira.
+- **Declarações Mensais e Anuais**: nossa principal obrigação será gerar e pagar mensalmente a guia do Simples Nacional (DAS) e entregar a Declaração de Informações Socioeconômicas e Fiscais (DEFIS) anualmente.
+- **Contabilidade**: já estamos estudando a possibilidade e sabemos que é recomendável termos um contador, que ficará responsável por todas essas obrigações e por garantir que estejamos em dia com o fisco.
