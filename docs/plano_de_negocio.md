@@ -106,3 +106,55 @@ Mesmo simplificadas pelo Simples Nacional, nossas obrigações acessórias ainda
 - **Livro Caixa**: manteremos o registro de todas as receitas e despesas para demonstrar nossa movimentação financeira.
 - **Declarações Mensais e Anuais**: nossa principal obrigação será gerar e pagar mensalmente a guia do Simples Nacional (DAS) e entregar a Declaração de Informações Socioeconômicas e Fiscais (DEFIS) anualmente.
 - **Contabilidade**: já estamos estudando a possibilidade e sabemos que é recomendável termos um contador, que ficará responsável por todas essas obrigações e por garantir que estejamos em dia com o fisco.
+
+# 🧠 Diagnóstico Estratégico – Matriz SWOT (FOFA)
+
+## 🔍 Pesquisa de Mercado e Concorrência
+
+Foram analisados três concorrentes principais no mercado de divulgação de ofertas e cupons de desconto:
+
+| **Concorrente** | **Descrição e Atuação** | **Diferenciais** | **Canais** | **Público-Alvo** | **Ameaças que representa** |
+|-----------------|--------------------------|------------------|-------------|------------------|-----------------------------|
+| **Pelando** | Plataforma e app comunitário onde usuários compartilham promoções e descontos de lojas diversas. | Grande base de usuários e credibilidade no mercado; sistema de votação e comentários. | Site, aplicativo e redes sociais. | Consumidores que buscam descontos verificados e interação com a comunidade. | Forte engajamento e reconhecimento da marca dificultam entrada de novos players. |
+| **Promobit** | Site e aplicativo que divulgam promoções e ofertas com links de afiliado. | Curadoria de ofertas por equipe interna, design profissional e presença em mídias digitais. | Site, app, Telegram e Instagram. | Público geral que busca ofertas confiáveis e cupons. | Domina resultados de busca e tem parcerias com grandes e-commerces. |
+| **Ofertas do Dia (Grupos WhatsApp/Telegram)** | Canais independentes e informais que repassam promoções e links de afiliado. | Comunicação direta via grupos; alto alcance orgânico. | WhatsApp e Telegram. | Usuários que preferem receber ofertas diretamente no celular. | Saturação de grupos semelhantes e alta concorrência de canais informais. |
+
+---
+
+## 💡 Análise de Ameaças e Oportunidades
+
+### **Ameaças**
+- Concorrentes consolidados com grandes audiências e investimentos em marketing.
+- Mudanças nas políticas de afiliados de plataformas como Amazon e Mercado Livre.
+- Restrições de privacidade e bloqueio de bots em aplicativos de mensagem.
+
+### **Oportunidades**
+- Crescimento do comércio eletrônico e do marketing de afiliados no Brasil.
+- Expansão de grupos de compras e ofertas em redes sociais.
+- Possibilidade de nichar o público (ex: tecnologia, games, produtos sustentáveis).
+
+---
+
+## 📊 Matriz SWOT (FOFA)
+
+| **Forças (Strengths)** | **Fraquezas (Weaknesses)** |
+|-------------------------|----------------------------|
+| 1. Automação do processo de coleta e envio de ofertas (reduz custo operacional). | 1. Baixa visibilidade inicial e ausência de base de usuários consolidada. |
+| 2. Integração com múltiplos canais (WhatsApp e Telegram). | 2. Dependência de políticas externas (APIs e programas de afiliados). |
+| 3. Facilidade de adaptação a diferentes nichos de mercado. | 3. Falta de equipe dedicada exclusivamente a marketing e relacionamento. |
+
+| **Oportunidades (Opportunities)** | **Ameaças (Threats)** |
+|----------------------------------|------------------------|
+| 1. Crescimento do e-commerce e da cultura de consumo digital. | 1. Concorrentes com grandes bases de usuários e forte presença online. |
+| 2. Parcerias com influenciadores e microempreendedores digitais. | 2. Alterações nas regras de uso de bots e APIs de mensageria. |
+| 3. Expansão do marketing de afiliados e novas plataformas de monetização. | 3. Flutuação econômica afetando o poder de compra do público. |
+
+---
+
+## 📈 Integração com o Plano de Negócios
+
+A análise SWOT orienta o posicionamento estratégico do projeto, destacando:
+
+- **Diferencial:** automação e entrega direta das ofertas em tempo real via mensageiros.  
+- **Prioridades:** fortalecimento da marca, ampliação de parcerias e crescimento orgânico.  
+- **Riscos:** dependência de plataformas externas e mudanças nas políticas de integração.
