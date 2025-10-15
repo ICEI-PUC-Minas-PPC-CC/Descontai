@@ -119,11 +119,7 @@ O detalhamento completo da Matriz SWOT e a análise de concorrência encontram-s
 
 ### 8️⃣ Planejamento Estratégico (BSC)
 
-*Nota: Esta etapa está atualmente **em planejamento**.*
-
-- Objetivos estratégicos:
-- Indicadores e metas:
-- Ações planejadas:
+O planejamento estratégico da empresa está disponível na seguinte planilha: [Acessar planilha](./docs/planejamento_estrategico.xlsx)
 
 ---
 
