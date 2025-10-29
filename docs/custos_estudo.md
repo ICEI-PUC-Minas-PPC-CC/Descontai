@@ -36,8 +36,8 @@ Este documento apresenta a identificação, classificação e estimativas de cus
 
 | Item | Tipo | Direto/Indireto | Estimativa (R$) | Premissas |
 | :--- | :--- | :--- | :--- | :--- |
-| **Manutenção/ Ajustes de Bots** | Variável | Direto | 200/mês | Correções e melhorias ocasionais feitas de forma contínua. |
-| **Marketing Digital / Tráfego Pago** (Google Ads, Instagram Ads) | Variável | Direto | 500/mês | Investimento proporcional para aumentar alcance e aquisição de usuários (estimativa mínima inicial). |
+| **Manutenção/ Ajustes de Bots** | Variável | Direto | 195/mês | Correções e melhorias ocasionais feitas de forma contínua. |
+| **Marketing Digital / Tráfego Pago** (Google Ads, Instagram Ads) | Variável | Direto | 495/mês | Investimento proporcional para aumentar alcance e aquisição de usuários (estimativa mínima inicial). |
 | **Taxas de Plataformas** (se aplicável) | Variável | Indireto | 5% das Receitas | Eventuais taxas de saque/uso de programas de afiliados (estimativa percentual). |
 
 ### <a id="13-despesas-operacionais"></a> 1.3. Despesas Operacionais
@@ -80,5 +80,6 @@ Este documento apresenta a identificação, classificação e estimativas de cus
 <img src="./images/custos_e_despesas/custos_fixos.png" alt="Custos Fixos" width="750">
 
 <img src="./images/custos_e_despesas/custos_variaveis.png" alt="Custos Variáveis" width="750">
+
 
 <img src="./images/custos_e_despesas/investimento_pre_operacional.png" alt="Investimento Pré-Operacional" width="750">
