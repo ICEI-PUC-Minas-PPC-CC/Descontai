@@ -37,11 +37,9 @@
 | :--- | :--- | :--- |
 | **Movéis e Infraestrutura Física** | 5 Mesas de Escritório | R$ 1.125,00 |
 | | 5 Cadeiras Ergonômicas | R$ 1.000,00 |
-| | Armários | R$ 600,00 |
 | | Sistema de Ventilação e Ar-Condicionado | R$ 2.000,00 |
 | **Equipamentos** | 5 Computadores | R$ 20.000,00 |
-| | 2 Telefones | R$ 4.000,00 |
-| **TOTAL** | | **R$ 28.725,00** |
+| **TOTAL** | | **R$ 24.125,00** |
 
 <img src="./images/plano_de_negocio/investimento_fixo.png" alt="Investimento Fixo" width="750">
 
@@ -49,24 +47,24 @@
 
 | Item | Descrição | Valor (R$) |
 | :--- | :--- | :--- |
-| Registro da Marca e CNPJ | Custos de formalização | R$ 1.500,00 |
-| Custos Jurídicos / Contratuais | Elaboração de contratos e termos | R$ 2.000,00 |
-| Desenvolvimento dos Bots | Customização e testes iniciais | R$ 2.000,00 |
-| Marketing inicial | Campanhas de lançamento | R$ 5.000,00 |
-| **TOTAL** | | **R$ 10.500,00** |
+| Registro da Marca e CNPJ | Custos de formalização | R$ 1.000,00 |
+| Marketing inicial | Campanhas de lançamento | R$ 500,00 |
+| **TOTAL** | | **R$ 1.500,00** |
 
 <img src="./images/plano_de_negocio/investimento_pre_operacional.png" alt="Investimento Fixo" width="750">
 
 ### <a id="13-capital-de-giro"></a> 1.3 Capital de Giro
 
-| Item | Descrição | Valor Mensal Estimado (R$) |
-| :--- | :--- | :--- |
-| Salários (5 sócios) | Pró-labore e remuneração da equipe | R$ 10.000,00 |
-| Servidor em nuvem e APIs | Custos de infraestrutura e serviços | R$ 1.200,00 |
-| Internet, energia e despesas administrativas | Manutenção da operação física | R$ 1.000,00 |
-| Marketing recorrente (anúncios) | Tráfego pago e campanhas contínuas | R$ 3.000,00 |
-| Impostos e taxas | Pagamento mensal do Simples Nacional (DAS) | R$ 1.500,00 |
-| **Total mensal estimado** | | **R$ 16.700,00** |
+| Item                                   | Descrição                                                            | Valor Mensal Estimado (R$) |
+| :------------------------------------- | :------------------------------------------------------------------- | :------------------------- |
+| **Pró-labore (5 sócios)**              | Remuneração mensal dos sócios (R$ 2.000 cada)                        | **R$ 10.000,00**           |
+| **Infraestrutura e sistemas**          | Servidor, API WhatsApp, encurtador de links e manutenção técnica     | **R$ 600,00**              |
+| **Serviços e utilidades**              | Internet, energia elétrica, domínio, e-mail profissional e Canva Pro | **R$ 405,00**              |
+| **Marketing e divulgação**             | Marketing terceirizado + anúncios pagos (Meta Ads)                   | **R$ 1.000,00**            |
+| **Contabilidade e obrigações fiscais** | Escritório contábil e tributos (Simples Nacional)                    | **R$ 450,00**              |
+| **Total mensal estimado**              |                                                                      | **R$ 12.455,00**           |
+
+- O capital de giro mínimo ideal deve cobrir pelo menos 3 meses de operação, ou seja, aproximadamente R$ 37.365,00.
 
 ---
 
