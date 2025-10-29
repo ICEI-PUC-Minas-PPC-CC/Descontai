@@ -24,6 +24,7 @@
     * [4.1. Pesquisa de Mercado e Concorrência](#41-pesquisa-de-mercado-e-concorrência)
     * [4.2. Análise de Ameaças e Oportunidades](#42-análise-de-ameaças-e-oportunidades)
     * [4.3. Matriz SWOT (FOFA)](#43-matriz-swot-fofa)
+* [5. Análise do Fluxo de Caixa Mensal](#5-análise-do-fluxo-de-caixa)
 
 ---
 
@@ -197,3 +198,27 @@ Foram analisados três concorrentes principais no mercado de divulgação de ofe
 | 3. Expansão do marketing de afiliados e novas plataformas de monetização. | 3. Flutuação econômica afetando o poder de compra do público. |
 
 ---
+
+<a id="5-análise-do-fluxo-de-caixa"></a>
+
+## 5️⃣ Análise do Fluxo de Caixa Mensal
+
+O fluxo de caixa da empresa **Descontaí** foi elaborado considerando o período de **janeiro a dezembro de 2025**, com base nos valores definidos nas etapas anteriores do plano de negócio (investimentos, precificação, despesas, tributos e aportes dos sócios).
+
+### Entradas
+
+As principais **entradas** de recursos são provenientes das **receitas operacionais**, especialmente de **comissões de afiliados** e, posteriormente, de **propagandas de terceiros**. Observa-se um **crescimento gradual nas entradas mensais**, partindo de **R$ 1.000,00 em janeiro** e atingindo **R$ 8.500,00 em dezembro**, o que reflete a expansão e consolidação das operações ao longo do ano.
+
+### Saídas
+
+As **saídas** englobam custos fixos, despesas administrativas e operacionais. O total de despesas mensais se mantém relativamente estável, em torno de **R$ 4.455,00 a R$ 5.380,00**, demonstrando um controle eficiente dos gastos. Não há grandes variações ou investimentos extraordinários após os meses iniciais.
+
+### Saldos e Acúmulos
+
+No início das operações, o fluxo apresenta **saldo negativo**, característico do investimento inicial necessário para estruturar o negócio. A partir de **julho**, observa-se uma recuperação progressiva, com o **saldo acumulado tornando-se positivo** no segundo semestre.
+Em **dezembro**, o saldo acumulado atinge aproximadamente **R$ 12.770,00**, evidenciando que a empresa passa a operar com **sobra de caixa** e sustentabilidade financeira.
+
+### Conclusão
+
+A projeção do fluxo de caixa indica que o negócio, apesar de começar com resultados negativos nos primeiros meses, demonstra **viabilidade econômica e financeira** a médio prazo. O equilíbrio entre crescimento de receitas e controle de despesas mostra que a **Descontaí** tende a atingir **autossuficiência financeira** dentro do primeiro ano de operação.
+
