@@ -125,19 +125,25 @@ O planejamento estratégico da empresa está disponível na seguinte planilha: [
 
 ### 9️⃣ Fluxo de Caixa
 
-*Nota: Esta etapa está atualmente **em planejamento**.*
-
-- Planilha ou print do fluxo projetado:
-- Principais considerações:
+O fluxo de caixa da empresa está disponível na seguinte planilha: [Acessar planilha](./docs/fluxo_de_caixa.xlsx)
 
 ---
 
 ### 🔟 Valuation
 
-*Nota: Esta etapa está atualmente **em planejamento**.*
+####  Metodologia
 
-- Método utilizado:
-- Valor estimado:
+A metodologia central utilizada para estimar o valor potencial do negócio foi o **Fluxo de Caixa Descontado (FCD)**.
+
+Este método projeta os fluxos de caixa futuros que a empresa espera gerar e os desconta a valor presente, utilizando uma taxa de desconto (WACC) que reflete os riscos do negócio. O cálculo também inclui a estimativa de um Valor Terminal (Perpetuidade) para capturar o valor da empresa após o período de projeção explícito.
+
+As premissas detalhadas e os cálculos estão disponíveis no documento principal.
+
+#### Relatório Completo
+
+Para acessar o relatório sintético com a análise detalhada, cálculos e premissas, acesse o link abaixo:
+
+* **[Relatório de Valuation - Descontaí](./docs/valuation_grupo02.pdf)**
 
 ---
 
